@@ -13,7 +13,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/stamblerre/gocode/internal/lookdot"
+	"github.com/jonnycrunch/gocode/internal/lookdot"
 	"golang.org/x/tools/go/packages"
 )
 
