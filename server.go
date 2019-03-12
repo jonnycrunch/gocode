@@ -12,7 +12,7 @@ import (
 	"time"
 
 	"github.com/keegancsmith/rpc"
-	"github.com/stamblerre/gocode/internal/suggest"
+	"github.com/jonnycrunch/gocode/internal/suggest"
 )
 
 func doServer(ctx context.Context, _ bool) {
